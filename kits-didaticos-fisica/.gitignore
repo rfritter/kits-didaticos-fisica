@@ -1,0 +1,63 @@
+# ------------------------------
+# Python
+# ------------------------------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+.ipynb_checkpoints/
+
+# ------------------------------
+# FreeCAD
+# ------------------------------
+*.FCStd1
+*.FCBak
+*.FCStd.lock
+
+# ------------------------------
+# Arduino / PlatformIO / ESP32
+# ------------------------------
+.pio/
+.pioenvs/
+.piolibdeps/
+build/
+*.bin
+*.elf
+*.hex
+
+# ------------------------------
+# KiCad (esquemas eletrônicos)
+# ------------------------------
+*-backups/
+*.bak
+*.kicad_pcb-bak
+fp-info-cache
+*.net
+
+# ------------------------------
+# Dados grandes / temporários
+# ------------------------------
+*.csv.bak
+data/raw_large/
+*.sqlite-journal
+
+# ------------------------------
+# Segredos e credenciais (NUNCA versionar!)
+# ------------------------------
+*.env
+.env
+secrets.h
+credentials.ini
+config.local.*
+wifi_credentials.h
+
+# ------------------------------
+# Sistema operacional / editores
+# ------------------------------
+.DS_Store
+Thumbs.db
+.vscode/
+*.swp
+*~
