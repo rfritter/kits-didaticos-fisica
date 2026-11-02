@@ -97,4 +97,4 @@ Você é livre para usar, modificar e distribuir, inclusive em contexto educacio
 **Renan Ritter** — Técnico Eletrônico | Licenciado em Física
 Porto Alegre, RS · Brasil
 
-> Projeto pessoal de longo prazo, com potencial de uso como projeto de extensão e base para pesquisa de mestrado em Informática/Tecnologias Digitais na Educação.
+> Projeto pessoal de longo prazo, com potencial de uso como projeto de extensão. <!-- e base para pesquisa de mestrado em Informática/Tecnologias Digitais na Educação. -->
