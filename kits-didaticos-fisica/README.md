@@ -94,7 +94,7 @@ Você é livre para usar, modificar e distribuir, inclusive em contexto educacio
 
 ## 👤 Autor
 
-**Renan Ritter** — Técnico Eletrônico | Licenciado em Física
-Porto Alegre, RS · Brasil
+**Renan Ritter** — Técnico Eletrônico | Tecnólogo em Automação Industrial | Licenciado em Física
+Gravataí, RS · Brasil
 
 > Projeto pessoal de longo prazo, com potencial de uso como projeto de extensão. <!-- e base para pesquisa de mestrado em Informática/Tecnologias Digitais na Educação. -->
